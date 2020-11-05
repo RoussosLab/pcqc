@@ -1,0 +1,9 @@
+**/*.csv
+**/*.tsv
+**/*.pkl
+**/*.gz
+**/*.mtx
+**/*.h5ad
+**/*.DS_Store
+**/*.ipynb_checkpoints
+**/*.csv
